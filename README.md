@@ -1,4 +1,4 @@
-# Portfolio Quant Trader - [Tuo Nome]
+# Portfolio Quant Trader - Giacomo Pollarini
 
 Questo repository contiene strategie di trading algoritmico sviluppate in Python, testate con dati storici reali.  
 Ogni cartella include:
